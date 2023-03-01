@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     double latitude, longitude;
 
     private final String url = "https://api.openweathermap.org/data/2.5/weather?";
-    private final String appId = "to be inserted with your own API Key";
+    private final String appId = "insert your own";
     DecimalFormat df = new DecimalFormat("#.##");
 
 
